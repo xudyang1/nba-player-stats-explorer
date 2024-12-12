@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD029 -->
 
-# Web App for NBA Player Data Exploration
-
-- hosted on [streamlit](https://nba-player-stats.streamlit.app).
+# [Web App for NBA Player Data Exploration](https://nba-player-stats.streamlit.app)
 
 ## Development
 
